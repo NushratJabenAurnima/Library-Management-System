@@ -2,7 +2,7 @@
 
 The **Library Management System (LMS)** is a comprehensive platform designed to modernize and streamline library operations by managing **book inventory, user roles, transactions, and fines** efficiently. The system ensures an enhanced library experience for **members, librarians, and administrators** by automating key processes.
 
----
+
 
 ## 📌 Project Overview
 
@@ -16,7 +16,7 @@ This project is a **Library Management System** developed as part of the **Datab
 - **🔍 Transaction Monitoring** – Admins can track all borrowing and returning activities.
 - **📜 Secure Data Handling** – Ensures user and transaction data security.
 
----
+
 
 ## 🚀 **System Modules**
 The **Library Management System** consists of different modules for efficient **role-based access**:
@@ -29,7 +29,7 @@ The **Library Management System** consists of different modules for efficient **
 | **Admin Module** | Managing users (adding/removing librarians), tracking transactions, and generating reports. |
 | **Fine & Transaction System** | Automated fine calculation and detailed transaction logs. |
 
----
+
 
 ## 🏛 **System Architecture**
 - **Frontend:** HTML, CSS, JavaScript
@@ -37,7 +37,7 @@ The **Library Management System** consists of different modules for efficient **
 - **Database:** MySQL (Relational Database Model)
 - **Security:** Role-Based Access Control (RBAC)
 
----
+
 
 ## 🛠 **Database Structure**
 The **Library Management System** follows a structured **MySQL relational database** with the following tables:
@@ -48,7 +48,7 @@ The **Library Management System** follows a structured **MySQL relational databa
 - ⚖️ **Fine Calculation System**
 - 📝 **Reports & Logs**
 
----
+
 
 ## 🔧 **Installation & Setup**
 ### **1️⃣ Clone the Repository**
